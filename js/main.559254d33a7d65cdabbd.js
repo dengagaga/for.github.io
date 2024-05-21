@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{Hglc:function(n,c,o){},tjUo:function(n,c,o){"use strict";o.r(c),function(n){o("SYky"),o("Hglc");n("#alert").on("click",()=>{alert("jQuery works!")})}.call(this,o("EVdn"))}},[["tjUo",1,2]]]);
