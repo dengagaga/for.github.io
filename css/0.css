@@ -5759,10 +5759,14 @@ body {
 }
 @media (min-width: 992px) {
   .app .screen {
-    display: block;
-    position: absolute;
-    top: -184px;
-    right: 14px;
+    
+      display: block;
+      position: absolute;
+      top: -122px;
+      width: 154%;
+      right: 48px;
+      
+ 
   }
 }
 .app .button {
